@@ -1,0 +1,6 @@
+*.iml
+.editorconfig
+node_modules/
+src/app/*.js*
+src/*.js*
+
